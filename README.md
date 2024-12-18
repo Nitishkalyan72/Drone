@@ -1,8 +1,6 @@
 #Drone Control and Operations 🚁 -
 This repository contains various scripts and code snippets related to the control, movement, and operation of drones using the Tello library. These codes are primarily developed for learning purposes while exploring drone programming concepts such as basic movements, image capturing, keyboard control, mapping, and surveillance.
 
-Note: Some of the code has not been tested yet due to the unavailability of a physical drone, but the logic is designed for practical implementation once a drone is available.
-
 Overview -
 This project covers essential aspects of drone control using the DJI Tello drone. It demonstrates how to:
 
